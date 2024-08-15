@@ -1,0 +1,21 @@
+# Ignore Python bytecode
+__pycache__/
+
+# Ignore Chainlit directory
+.chainlit/
+
+# Ignore files directory
+.files/
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore large binary file
+llama-2-7b-chat.ggmlv3.q8_0.bin
+
+
+vectorstore/
+chainlit.md
+data/
+requirement.txt
+LICENSE
