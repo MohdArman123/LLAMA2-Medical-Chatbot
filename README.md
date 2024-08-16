@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/a59439cf-36c7-4485-b0c6-7cb2079fe32f)
+![medchatbot](https://github.com/user-attachments/assets/baa914ac-ca77-4f5e-b71d-9c8c337dd7a8)
+
 
 
 # Llama2 Medical Bot
