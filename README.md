@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/a59439cf-36c7-4485-b0c6-7cb2079fe32f)
 
 
 # Llama2 Medical Bot
